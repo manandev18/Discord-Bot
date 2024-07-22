@@ -1,4 +1,4 @@
-# Discord Bot with Groq AI Integration
+# Discord Bot for QRCODE generation with Groq AI Integration
 
 This is a Discord bot built using `discord.js` that generates sarcastic responses using Groq's AI models. The bot also supports generating QR codes for user-provided messages.
 
